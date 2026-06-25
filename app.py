@@ -1,8 +1,3 @@
-"""
-AI Fitness Coach - Streamlit App
-Menggunakan Groq LLM + HuggingFace Embeddings + FAISS
-"""
-
 import streamlit as st
 from rag_pipeline import (
     build_rag_pipeline,
@@ -17,7 +12,7 @@ from rag_pipeline import (
     TOP_K_RESULTS
 )
 
-# ============================================
+
 # 1. PAGE CONFIG
 # ============================================
 
@@ -28,7 +23,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# ============================================
+
 # 2. SESSION STATE
 # ============================================
 
@@ -68,7 +63,7 @@ def init_session_state():
 
 init_session_state()
 
-# ============================================
+
 # 3. SIDEBAR
 # ============================================
 
@@ -159,12 +154,12 @@ with st.sidebar:
         st.error("🔴 Status: Not Ready")
     st.caption(f"💬 Messages: {len(st.session_state.messages)}")
 
-# ============================================
+
 # 4. MAIN CHAT
 # ============================================
 
-st.title("💪 AI Fitness Coach")
-st.caption("Powered by Groq • HuggingFace Embeddings • FAISS")
+st.title("PerformAI")
+st.caption("AI-Powered Fitness Coach for Personalized Training and Performance")
 
 with st.expander("⚡ Quick Actions", expanded=False):
     cols = st.columns(3)

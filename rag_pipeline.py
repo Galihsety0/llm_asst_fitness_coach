@@ -1,8 +1,3 @@
-"""
-AI Fitness Coach - RAG Pipeline with Groq
-Menggunakan Groq LLM + HuggingFace Embeddings + FAISS
-"""
-
 import os
 import json
 import logging
@@ -19,7 +14,6 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain_groq import ChatGroq
 
-# ✅ Pake create_retrieval_chain (bisa kirim user_data)
 from langchain.chains import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 
@@ -27,7 +21,7 @@ from langchain.prompts import PromptTemplate
 from langchain_core.documents import Document
 
 
-# ============================================
+
 # 1. KONFIGURASI
 # ============================================
 
@@ -43,7 +37,7 @@ LLM_TEMPERATURE = 0.4
 LLM_MAX_TOKENS = 2048
 
 
-# ============================================
+
 # 2. SETUP
 # ============================================
 
@@ -60,7 +54,7 @@ if not GROQ_API_KEY:
     raise ValueError("❌ GROQ_API_KEY not found. Create .env file.")
 
 
-# ============================================
+
 # 3. DOCUMENT LOADER
 # ============================================
 
@@ -100,7 +94,7 @@ def load_documents_from_folder(folder_path: str) -> List[Document]:
     return documents
 
 
-# ============================================
+
 # 4. CLASS FITNESSRAG
 # ============================================
 
@@ -330,7 +324,7 @@ class FitnessRAG:
             return f"❌ Error: {str(e)}"
 
 
-# ============================================
+
 # 5. HELPER FUNCTIONS
 # ============================================
 
@@ -352,7 +346,7 @@ def calculate_tdee(bmr: float, activity: str = "moderate") -> float:
     return bmr * factors.get(activity.lower(), 1.55)
 
 
-# ============================================
+
 # 6. FACTORY FUNCTION
 # ============================================
 
@@ -369,7 +363,7 @@ def build_rag_pipeline():
     )
 
 
-# ============================================
+
 # 7. TESTING
 # ============================================
 
