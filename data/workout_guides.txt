@@ -1,0 +1,170 @@
+================================================================================
+                          WORKOUT & EXERCISE GUIDELINES
+================================================================================
+
+========================================
+CHAPTER 1: EXERCISE TECHNIQUE DATABASE
+========================================
+
+-------------------------------------------------------------------------------
+1.1 SQUAT (Barbell Back Squat)
+-------------------------------------------------------------------------------
+Category: Lower Body / Compound Movement
+Primary Muscles: Quadriceps, Glutes, Hamstrings, Core
+Equipment: Barbell, Squat Rack
+Difficulty: Intermediate
+
+PROPER FORM:
+1. Posisikan barbell di upper traps (bukan di leher!)
+2. Posisi kaki selebar bahu, jari kaki sedikit mengarah ke luar (15-30°)
+3. Jaga dada tetap tegak, pandangan lurus ke depan atau sedikit ke atas
+4. Turunkan tubuh dengan menggerakkan pinggul ke belakang (seperti duduk)
+5. Turun sampai paha sejajar atau di bawah sejajar dengan lantai
+6. Dorong melalui tumit saat naik ke posisi awal
+
+COMMON MISTAKES:
+- Tumit terangkat dari lantai (indicasi mobility issue)
+- Lutut collapse ke dalam (weak glutes/abductors)
+- Punggung membungkuk (weak core)
+- Depth tidak cukup (partial rep)
+
+ALTERNATIVES:
+- Goblet Squat (beginner friendly)
+- Front Squat (more quad emphasis)
+- Leg Press (machine alternative)
+- Bulgarian Split Squat (unilateral)
+
+-------------------------------------------------------------------------------
+1.2 BENCH PRESS (Barbell Bench Press)
+-------------------------------------------------------------------------------
+Category: Upper Body / Compound Movement
+Primary Muscles: Pectoralis Major, Anterior Deltoid, Triceps
+Equipment: Barbell, Flat Bench
+Difficulty: Intermediate
+
+PROPER FORM:
+1. Berbaring telentang di bangku, mata tepat di bawah barbell
+2. Pegang barbell selebar bahu atau sedikit lebih lebar
+3. Tarik bahu ke belakang dan ke bawah (retract scapula)
+4. Turunkan barbell ke bagian bawah dada (sekitar garis puting)
+5. Siku membentuk sudut 45° terhadap tubuh (bukan 90°!)
+6. Dorong barbell ke atas dengan eksplosif
+
+COMMON MISTAKES:
+- Siku terlalu melebar (90°) - berisiko cedera bahu
+- Punggung berlebihan arching
+- Barbell tidak menyentuh dada
+- Mengangkat glutes dari bangku
+
+ALTERNATIVES:
+- Dumbbell Press (more ROM)
+- Incline Press (upper chest focus)
+- Decline Press (lower chest focus)
+- Machine Press (more stable)
+
+-------------------------------------------------------------------------------
+1.3 DEADLIFT (Conventional Deadlift)
+-------------------------------------------------------------------------------
+Category: Full Body / Compound Movement
+Primary Muscles: Hamstrings, Glutes, Lower Back, Core, Traps, Forearms
+Equipment: Barbell, Plates
+Difficulty: Advanced (requires proper coaching)
+
+PROPER FORM:
+1. Posisi kaki selebar pinggul, shin menyentuh barbell
+2. Pegang barbell tepat di luar kaki (grip: overhand atau mixed)
+3. Turunkan pinggul, jaga punggung lurus (neutral spine)
+4. Dada tegak, bahu sedikit di depan barbell
+5. Angkat barbell dengan mendorong lantai (leg drive)
+6. Hips dan shoulders naik bersamaan
+7. Pada posisi atas, glutes squeezed, shoulders back
+
+CRITICAL SAFETY:
+- NEVER round your lower back!
+- Hips should not rise faster than shoulders
+- Keep barbell close to your body throughout movement
+
+-------------------------------------------------------------------------------
+1.4 PULL-UP / CHIN-UP
+-------------------------------------------------------------------------------
+Category: Upper Body / Pull Movement
+Primary Muscles: Lats, Biceps, Rhomboids, Teres Major
+Equipment: Pull-up Bar
+Difficulty: Intermediate - Advanced
+
+PROPER FORM:
+1. Grip slightly wider than shoulder width (overhand for pull-up)
+2. Hang with arms fully extended, shoulders engaged (not shrugged)
+3. Pull body up by driving elbows down and back
+4. Chin clears the bar at the top
+5. Lower with control (3-4 seconds eccentric)
+
+BEGINNER PROGRESSIONS:
+- Negative reps (jump up, lower slowly)
+- Band-assisted pull-ups
+- Lat pulldown machine
+- Australian rows (inverted rows)
+
+===============================================================================
+CHAPTER 2: WORKOUT PROGRAM TEMPLATES
+===============================================================================
+
+-------------------------------------------------------------------------------
+2.1 FULL BODY PROGRAM (BEGINNER)
+-------------------------------------------------------------------------------
+Frequency: 3x per week (Mon, Wed, Fri)
+Duration: 8-12 weeks
+Goal: General fitness, foundational strength
+
+WORKOUT A:
+Exercise                      Sets x Reps      Rest
+Squat                         3 x 10-12        60s
+Bench Press                   3 x 10-12        60s
+Bent Over Row                 3 x 10-12        60s
+Dumbbell Shoulder Press       3 x 10-12        60s
+Plank                         3 x 30-45s       45s
+
+WORKOUT B:
+Exercise                      Sets x Reps      Rest
+Deadlift (RDL variant)       3 x 10-12        60s
+Incline Dumbbell Press        3 x 10-12        60s
+Lat Pulldown                  3 x 10-12        60s
+Leg Press                     3 x 12-15        60s
+Face Pull                     3 x 15-20        45s
+
+PROGRESSION:
+- Week 1-4: Focus on form mastery
+- Week 5-8: Add weight incrementally
+- Week 9-12: Increase intensity
+
+-------------------------------------------------------------------------------
+2.2 PUSH/PULL/LEGS PROGRAM (INTERMEDIATE)
+-------------------------------------------------------------------------------
+Frequency: 6x per week (PPL Rest PPL Rest)
+Duration: 10-12 weeks
+Goal: Hypertrophy, aesthetic development
+
+PUSH DAY (Chest, Shoulders, Triceps):
+Exercise                      Sets x Reps      Rest
+Barbell Bench Press           4 x 8-12         60s
+Incline Dumbbell Press        3 x 10-12        60s
+Seated Dumbbell Shoulder Press 3 x 10-12       60s
+Lateral Raises                4 x 15-20        45s
+Triceps Pushdown              3 x 12-15        45s
+
+PULL DAY (Back, Biceps, Rear Delts):
+Exercise                      Sets x Reps      Rest
+Pull-ups                      4 x AMRAP        60s
+Barbell Row                   4 x 8-12         60s
+Single-arm Dumbbell Row       3 x 10-12        60s
+Face Pull                     4 x 15-20        45s
+Barbell Curl                  3 x 10-12        45s
+
+LEGS DAY (Quads, Hamstrings, Glutes, Calves):
+Exercise                      Sets x Reps      Rest
+Barbell Squat                 4 x 8-10         90s
+Romanian Deadlift             4 x 10-12        60s
+Leg Press                     3 x 12-15        60s
+Leg Curl                      3 x 12-15        60s
+Leg Extension                 3 x 12-15        60s
+Standing Calf Raise           4 x 15-20        45s

@@ -1,0 +1,66 @@
+PROGRAMS BY GOAL
+
+WEIGHT LOSS PROGRAM
+- Calories: TDEE - 400 (deficit)
+- Macros: Protein 2.0g/kg, Carbs 3-5g/kg, Fat 0.8g/kg
+- Workout: 4x per week (strength + cardio)
+- Monday: Full Body Strength + 15min LISS
+- Tuesday: 30-40min LISS
+- Wednesday: Full Body Strength + 15min LISS
+- Thursday: 30-40min LISS
+- Friday: Full Body Strength + 15min LISS
+- Saturday: 40-60min LISS (active recovery)
+- Sunday: Rest
+- Key: Protein at every meal, 7-8 hours sleep, 8,000-10,000 steps/day
+
+MUSCLE GAIN PROGRAM
+- Calories: TDEE + 250 (surplus)
+- Macros: Protein 1.6-2.2g/kg, Carbs 4-6g/kg, Fat 0.8g/kg
+- Workout: 5-6x per week (Push/Pull/Legs or Upper/Lower)
+- Monday: Push Day
+- Tuesday: Pull Day
+- Wednesday: Legs Day
+- Thursday: Rest
+- Friday: Push Day
+- Saturday: Pull Day
+- Sunday: Rest
+- Key: Progressive overload, track weights, 8+ hours sleep, eat surplus
+
+MAINTENANCE PROGRAM
+- Calories: TDEE ± 100
+- Macros: Protein 1.6g/kg, Carbs 3-5g/kg, Fat 0.8-1.0g/kg
+- Workout: 3-4x per week (enjoyable activities)
+- Focus: Consistency, sustainability, enjoyment
+- Key: Don't overcomplicate, find what works for you
+
+PERFORMANCE PROGRAM
+- Calories: TDEE + 100-200
+- Macros: Protein 1.6-2.2g/kg, Carbs 5-8g/kg, Fat 0.8-1.2g/kg
+- Workout: Sport-specific periodization
+- Focus: Strength, speed, agility, endurance
+- Key: Recovery optimization, sleep 9+ hours, active recovery
+
+SAMPLE WORKOUT PLAN - MUSCLE GAIN (PPL)
+PUSH DAY:
+1. Barbell Bench Press: 4x8-12
+2. Incline Dumbbell Press: 3x10-12
+3. Seated Shoulder Press: 3x10-12
+4. Lateral Raises: 4x15-20
+5. Triceps Pushdown: 3x12-15
+6. Overhead Triceps Extension: 3x12-15
+
+PULL DAY:
+1. Pull-ups: 4xAMRAP
+2. Barbell Row: 4x8-12
+3. Single-arm Dumbbell Row: 3x10-12
+4. Face Pull: 4x15-20
+5. Barbell Curl: 3x10-12
+6. Hammer Curl: 3x12-15
+
+LEGS DAY:
+1. Barbell Squat: 4x8-10
+2. Romanian Deadlift: 4x10-12
+3. Leg Press: 3x12-15
+4. Leg Curl: 3x12-15
+5. Leg Extension: 3x12-15
+6. Standing Calf Raise: 4x15-20

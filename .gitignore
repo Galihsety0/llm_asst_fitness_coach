@@ -1,0 +1,17 @@
+# Jangan commit file ini!
+.env
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Cache model HuggingFace
+.cache/
+~/.cache/
+faiss_index
+
+# Virtual environment
+venv/
+env/
+.conda/

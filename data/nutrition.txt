@@ -1,0 +1,41 @@
+NUTRITION GUIDES
+
+PROTEIN
+- Role: Muscle repair and growth, recovery
+- Daily requirement: 1.6-2.2g per kg body weight
+- Sources: Chicken breast (31g/100g), Fish (22-25g/100g), Eggs (6g/egg), Whey protein (24g/scoop)
+
+CARBOHYDRATES
+- Role: Energy source, muscle glycogen replenishment
+- Daily requirement: 3-6g per kg body weight
+- Sources: Oats (66g/100g), Brown rice (23g/100g), Sweet potato (20g/100g), Quinoa (21g/100g)
+
+FATS
+- Role: Hormone production, vitamin absorption, brain function
+- Daily requirement: 0.8-1.0g per kg body weight
+- Sources: Avocado (15g/100g), Nuts (50-70g/100g), Olive oil (14g/tbsp), Fatty fish (10-15g/100g)
+
+CALORIE CALCULATION
+- BMR (Male) = (10 × weight in kg) + (6.25 × height in cm) - (5 × age) + 5
+- BMR (Female) = (10 × weight in kg) + (6.25 × height in cm) - (5 × age) - 161
+- TDEE = BMR × Activity Factor
+- Activity Factors: Sedentary=1.2, Light=1.375, Moderate=1.55, Active=1.725, Extreme=1.9
+
+GOAL CALORIE ADJUSTMENT
+- Weight Loss: TDEE - 300-500 calories
+- Muscle Gain: TDEE + 200-300 calories
+- Maintenance: TDEE ± 100 calories
+
+SAMPLE MEAL PLAN (2200 calories)
+- Breakfast: 2 eggs + 50g oats + berries (450 cal)
+- Snack: Greek yogurt + 20g almonds (200 cal)
+- Lunch: 150g chicken + 100g brown rice + vegetables (500 cal)
+- Pre-workout: Apple + 20g peanut butter (200 cal)
+- Post-workout: Whey protein + 50g quick oats (300 cal)
+- Dinner: 150g salmon + 150g sweet potato + broccoli (550 cal)
+- Total: 2200 cal, 163g protein, 205g carbs, 75g fat
+
+HYDRATION
+- Daily: 2-3 litres water
+- During exercise: 150-250ml every 15 minutes
+- Post-exercise: 1.5 litres per kg lost
