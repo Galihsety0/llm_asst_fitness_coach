@@ -103,7 +103,6 @@ with st.sidebar:
             format_func=lambda x: {"full_gym": "🏋️ Full Gym", "home_gym": "🏠 Home Gym", "no_equipment": "🪑 No Equipment"}.get(x, x)
         )
         injuries = st.text_area("Injury History", value=st.session_state.user_data.get("injuries", ""), placeholder="Leave empty if none", height=68)
-        preferences = st.text_area("Food Preferences/Allergies", value=st.session_state.user_data.get("preferences", ""), placeholder="Example: vegetarian, nut allergy", height=68)
     
     if st.button("💾 Save Profile", type="primary", use_container_width=True):
         st.session_state.user_data = {

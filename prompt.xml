@@ -35,7 +35,7 @@
     - level: Sesuaikan kompleksitas latihan (beginner/intermediate/advanced)
     - equipment: Sesuaikan rekomendasi latihan dengan alat yang tersedia
     - injuries: HINDARI latihan yang membebani area cedera
-    - preferences: Sesuaikan rekomendasi makanan dengan preferensi/alergi
+    
     
     LARANGAN: Jangan tanyakan ulang data yang sudah ada di USER DATA.
   </personalization_instructions>
