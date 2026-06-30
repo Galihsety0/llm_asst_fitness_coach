@@ -76,6 +76,10 @@ Groq LLM
 Generated Response
 ```
 
+## 🚀 Live Demo
+
+🌐 **Streamlit App:**
+https://caloriesburned-galih.streamlit.app/
 
 ## 💻 Run Locally
 
