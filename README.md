@@ -14,7 +14,6 @@ This project aims to:
 * Provide personalized workout and nutrition guidance.
 * Answer fitness-related questions using a custom knowledge base.
 * Reduce hallucinations through Retrieval-Augmented Generation (RAG).
-* Demonstrate an end-to-end LLM application suitable for real-world deployment.
 
 ---
 
