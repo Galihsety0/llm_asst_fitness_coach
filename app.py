@@ -17,7 +17,7 @@ from rag_pipeline import (
 # ============================================
 
 st.set_page_config(
-    page_title="💪 AI Fitness Coach",
+    page_title="PerformAI",
     page_icon="🏋️",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -57,8 +57,7 @@ def init_session_state():
             "level": "beginner",
             "frequency": "3x",
             "equipment": "full_gym",
-            "injuries": "",
-            "preferences": ""
+            "injuries": ""
         }
 
 init_session_state()
@@ -108,7 +107,7 @@ with st.sidebar:
         st.session_state.user_data = {
             "name": name, "age": age, "weight": weight, "height": height,
             "gender": gender, "goal": goal, "level": level, "frequency": frequency,
-            "equipment": equipment, "injuries": injuries, "preferences": preferences
+            "equipment": equipment, "injuries": injuries
         }
         st.success("✅ Profile saved successfully!")
         
