@@ -194,7 +194,7 @@ with st.expander("⚡ Quick Actions", expanded=False):
                         st.session_state.messages.append({"role": "assistant", "content": error_msg})
                 st.rerun()
 
-st.markdown("---")
+
 
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
@@ -222,8 +222,9 @@ if prompt := st.chat_input("Ask about workout programs, nutrition, or fitness...
             st.session_state.messages.append({"role": "assistant", "content": error_msg})
     st.rerun()
 
-st.markdown("---")
+
 st.caption("⚠️ **Disclaimer**: All advice is for educational purposes only. Consult with a healthcare professional for specific medical conditions.")
+
 
 col1, col2, col3 = st.columns([3, 1, 1])
 with col2:
